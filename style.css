@@ -144,12 +144,6 @@
   transform: translateX(0px);
 }
 
-.fa fa-home {
-  position: relative;
-  right: 0px;
-}
-
-
 *{
   margin: 0;
   padding: 0;
